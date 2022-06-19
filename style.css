@@ -1,0 +1,51 @@
+*{ margin: 0; padding: 0; font-family: "微软雅黑"}
+*{ margin: 0; padding: 0; font-family: "微软雅黑"}
+body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { margin: 0px; padding: 0px; font-size: 20px; font-weight: normal;}
+img { border-style: none;}
+a{ text-decoration: none}
+body {	
+    background-color:#b8bec5;
+	background-image: linear-gradient(#e66465, #9198e5);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align:center;      /* 文字居中 */
+	letter-spacing:5px;    /* 文字间距 */
+     }
+
+table{
+	border: 0px solid black;       /* 大表格边框 */
+	margin:0px auto;               /* 表格居中 */
+    
+	border-collapse:separate;
+	border-spacing:10px 10px;
+	border-radius:15px;
+	background-color: ;   /* 表格颜色 */
+	
+	} 
+
+
+#ta{
+	width:200px;                 /* 表格宽度 */
+	border: 0px solid black;     /* 小表格边框 */
+	background-color:#606c88;    /* 表格颜色 */
+	border-radius:15px;
+	} 
+
+
+#tittle{                  /* 标题 */
+
+       color:#ffffff;
+       font-weight:bold;
+
+       }
+
+ 
+ 
+a:link {color: #FFFFFF}     /* 未访问的链接 */
+
+a:visited {color: #FFFFFF}  /* 已访问的链接 */
+
+a:hover {color: #FFFFFF}    /* 当有鼠标悬停在链接上 */
+
+a:active {color: #FFFFFF}   /* 被选择的链接 */
